@@ -1,18 +1,18 @@
 [
 	{
 		"name": "Home",
-		"url": "obama/"
+		"url": "/obama/"
 	},
 	{
 		"name": "Posts",
-		"url": "obama/posts"
+		"url": "/obama/posts"
 	},
 	{
 		"name": "Projects",
-		"url": "obama/projects"
+		"url": "/obama/projects"
 	},
 	{
 		"name": "About",
-		"url": "obama/about"
+		"url": "/obama/about"
 	}
 ]

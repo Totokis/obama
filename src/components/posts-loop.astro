@@ -19,7 +19,7 @@ const sortedPosts = allPosts
 const postsLoop = sortedPosts.slice(0, count).map((post) => {
   return {
     ...(post.data || {}),
-    link: `obama/post/${post.slug}`,
+    link: `/obama/post/${post.slug}`,
   };
 });
 ---
