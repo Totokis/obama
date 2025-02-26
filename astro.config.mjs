@@ -6,5 +6,5 @@ import tailwind from "@astrojs/tailwind";
 export default defineConfig({
 	integrations: [tailwind()],
 	site: 'https://totokis.github.io',
-	base: '/obama',
+	base: '/obama/',
 });
